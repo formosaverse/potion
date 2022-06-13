@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8" />
+    <script type="text/javascript">
+      const params = new URLSearchParams(document.location.search);
+      const tokeiUriPrefix = 'https://formosaverse.github.io/potion/metadata';
+      const id = params.get('id');
+      window.location.href = `${tokeiUriPrefix}/${id}.json`;
+    </script>
+    <!--         <meta http-equiv="refresh" content="0; url=https://yichenghsu.github.io/nft-metadata/id.json"> -->
+    <title>Page Redirection</title>
+  </head>
+  <body>
+    <!-- Note: don't tell people to `click` the link, just tell them that it is a link. -->
+  </body>
+</html>
