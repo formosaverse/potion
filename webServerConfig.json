@@ -8,7 +8,7 @@
   },
   "contract": {
     "type": "ERC721",
-    "address": "0x23f89c5caE9FDAE132FE869b4B644348Aea99dfC"
+    "address": "0x670890438cd0c7c09C22205EBa5b56d484E76513"
   },
   "pricingUnit": "MATIC",
   "whitelistAnnouncementTimeDisplayIndex": 1,
@@ -17,9 +17,9 @@
   "unblindTime": "",
   "whitelistSales": [],
   "publicSale": {
-    "blockHeightBegin": 1,
-    "blockHeightEnd": 30595046,
-    "price": "0xB1A2BC2EC50000",
+    "blockHeightBegin": 30049090,
+    "blockHeightEnd": 30587999,
+    "price": "42C96F40959140000",
     "startFrom": "2022-06-17T00:00:00+08:00",
     "endAt": "2022-07-11T00:00:00+08:00",
     "limitPerTx": 10
