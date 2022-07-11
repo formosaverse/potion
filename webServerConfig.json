@@ -1,7 +1,7 @@
 {
   "network": {
     "chainId": 137,
-    "jsonRpc": "https://polygon-mainnet.g.alchemy.com/v2/GbITujEKV4-quX7rA0elaUNrLpmf7eHc",
+    "jsonRpc": "https://polygon-mainnet.infura.io/v3/760d96a047c14bc39bed45d881441407",
     "scanName": "Polygon Scan",
     "scanUrl": "https://polygonscan.com/",
     "displayName": "Polygon Mainnet"
